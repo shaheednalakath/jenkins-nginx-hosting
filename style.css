@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    padding: 50px;
+
+    text-align: center;
+
+    border-radius: 15px;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.pipeline {
+    margin-top: 30px;
+
+    padding: 15px;
+
+    background: #222;
+    color: white;
+
+    border-radius: 8px;
+}
